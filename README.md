@@ -2,10 +2,9 @@
 
 This is a 3D animated personal portfolio website built with React + Vite, showcasing modern web design with Three.js-powered 3D elements. It’s optimized for performance, smooth animations, and responsive layouts—ideal for developers and creatives to showcase their work.
 ________________________________________
-# Demo & Screenshots
-
-(Add your live demo link & images here)
-________________________________________
+# Demo
+https://github.com/user-attachments/assets/cea11b90-9d15-4e10-92bc-66ea15fd8c9d
+_____________________________________
 # Tech Stack
 
 # Frontend Frameworks & Libraries
