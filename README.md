@@ -97,15 +97,19 @@ ________________________________________
 📦 Installation & Setup
 
 Clone the repository:
+
 git clone https://github.com/yourusername/3d-animated-portfolio.git
 
 Navigate into project:
+
 cd 3d-animated-portfolio
 
 Install dependencies:
+
 npm install
 
 Start development server:
+
 npm run dev
 ________________________________________
 🌐 Deployment
