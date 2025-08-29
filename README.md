@@ -8,7 +8,7 @@ ________________________________________
 ________________________________________
 # Tech Stack
 
-#Frontend Frameworks & Libraries
+# Frontend Frameworks & Libraries
 
 •	React 18 – Core UI framework
 
@@ -32,7 +32,7 @@ ________________________________________
 
 •	EmailJS Browser – Contact form integration without backend
 
-#Development Tools
+# Development Tools
 
 •	Vite – Fast build tool
 
@@ -86,7 +86,7 @@ ________________________________________
 ________________________________________
 # Scripts
 
-# Commands
+Commands
 
 npm run dev	
 
