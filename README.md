@@ -84,15 +84,15 @@ ________________________________________
 ________________________________________
 🛠️ Scripts
 
-Command	Description
+Command	          Description
 
-npm run dev	Start development server with Vite
+npm run dev   	  Start development server with Vite
 
-npm run build	Build for production
+npm run build   	Build for production
 
-npm run preview	Preview production build locally
+npm run preview	  Preview production build locally
 
-npm run lint	Run ESLint checks
+npm run lint	    Run ESLint checks
 ________________________________________
 📦 Installation & Setup
 
