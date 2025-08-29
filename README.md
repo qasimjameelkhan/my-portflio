@@ -1,12 +1,12 @@
-#📌 Project Overview
+# Project Overview
 
 This is a 3D animated personal portfolio website built with React + Vite, showcasing modern web design with Three.js-powered 3D elements. It’s optimized for performance, smooth animations, and responsive layouts—ideal for developers and creatives to showcase their work.
 ________________________________________
-#📸 Demo & Screenshots
+# Demo & Screenshots
 
 (Add your live demo link & images here)
 ________________________________________
-#⚡ Tech Stack
+# Tech Stack
 
 #Frontend Frameworks & Libraries
 
@@ -42,7 +42,7 @@ ________________________________________
 
 •	TypeScript types – Type support for React
 ________________________________________
-#🚀 Features
+# Features
 
 •	🎨 3D animated hero section (Three.js + React Three Fiber)
 
@@ -58,9 +58,9 @@ ________________________________________
 
 •	⚡ Fast builds with Vite
 ________________________________________
-#📂 Project Structure
+# Project Structure
 
-#3d-animated-portfolio/
+# 3d-animated-portfolio/
 
 │── index.html          # Entry HTML
 
@@ -84,9 +84,9 @@ ________________________________________
 
 │   └── styles/         # CSS/Tailwind configs
 ________________________________________
-#🛠️ Scripts
+# Scripts
 
-#Commands
+# Commands
 
 npm run dev	
 
@@ -96,7 +96,7 @@ npm run preview
 
 npm run lint	
 ________________________________________
-#📦 Installation & Setup
+# Installation & Setup
 
 *Clone the repository:*
 
@@ -114,7 +114,7 @@ npm install
 
 npm run dev
 ________________________________________
-#🌐 Deployment
+# Deployment
 
 You can deploy this portfolio easily on:
 
@@ -124,7 +124,7 @@ You can deploy this portfolio easily on:
 
 •	GitHub Pages (with Vite config tweaks)
 ________________________________________
-#📜 License
+# License
 
 This project is MIT licensed – free to use and modify.
 
