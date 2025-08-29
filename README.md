@@ -84,33 +84,28 @@ ________________________________________
 ________________________________________
 🛠️ Scripts
 
-Command	          Description
+Commands
 
-npm run dev   	  Start development server with Vite
+npm run dev	
 
-npm run build   	Build for production
+npm run build	
 
-npm run preview	  Preview production build locally
+npm run preview	
 
-npm run lint	    Run ESLint checks
+npm run lint	
 ________________________________________
 📦 Installation & Setup
 
-# Clone the repository
-
+Clone the repository:
 git clone https://github.com/yourusername/3d-animated-portfolio.git
 
-
-# Navigate into project
-
+Navigate into project:
 cd 3d-animated-portfolio
 
-# Install dependencies
-
+Install dependencies:
 npm install
 
-# Start development server
-
+Start development server:
 npm run dev
 ________________________________________
 🌐 Deployment
