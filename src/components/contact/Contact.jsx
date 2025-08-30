@@ -73,7 +73,7 @@ const Contact = () => {
                     </motion.div>
                     <motion.div variants={listVariant} className="formItem">
                         <label>Message</label>
-                        <textarea rows={10} name="message" placeholder="Write your message here..."></textarea>
+                        <textarea rows={6} name="message" placeholder="Write your message here..."></textarea>
                     </motion.div>
                     <motion.button variants={listVariant} type="submit" className="formButton">Send</motion.button>
                     {success && <span>Message sent successfully!</span>}
